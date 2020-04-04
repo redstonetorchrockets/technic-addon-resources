@@ -1,14 +1,14 @@
 {
     "format_version": 1,
     "header": {
-        "name": "RedstoneTorchRocket",
-        "description": "The RedstoneTorchRockets mod adds a redstonetorchrocket. And I think it is impossible to live without one!!",
-        "uuid": "cf85b126-7ef5-11e9-8f9e-2a86e4085a59",
+        "name": "Technic Addon",
+        "description": "This is an Addon, which content is the same good as the name!",
+        "uuid": "bba2c51a-76a5-11ea-bc55-0242ac130003",
         "version": [0, 0, 1]
     },
     "modules": [{
         "type": "resources",
-        "uuid": "d5dc7294-7ef5-11e9-8f9e-2a86e4085a59",
+        "uuid": "bba2c51a-76a5-11ea-bc55-0242ac130004",
         "version": [0, 0, 1]
     }]
 }
