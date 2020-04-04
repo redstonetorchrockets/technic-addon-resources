@@ -1,0 +1,37 @@
+{
+	"format_version": "1.8.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "rtr:easteregg",
+			"spawn_egg": {
+					"texture": "redstone_torch_rocket"
+				},
+			"render_controllers": [
+				"controller.render.easteregg"
+			],
+			"geometry": {
+				"default": "geometry.easteregg"
+			},
+			"textures": {
+				"default": "textures/entity/easteregg"
+			},
+			"materials": {
+				"default": "entity"
+			},
+			"animations":{
+				"flight":"animation.easteregg.flight"
+			
+			},
+			"animation_controllers": [
+				{
+					"always": "controller.animation.easteregg.always"
+					
+				}
+			],
+			"particle_effects": {
+				"smoketrail": "rtr:smoketrail",
+				"teleport": "rtr:teleport"
+			}
+		}
+	}
+}
