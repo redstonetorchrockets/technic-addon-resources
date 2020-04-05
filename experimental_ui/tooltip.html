@@ -21,11 +21,11 @@
         scriptEngineHandle = scriptEngine;
     });
 
-    engine.trigger("facet:request", ["core.scripting"]);
-
     engine.on("updateInfo", function(block) {
-        document.getElementById('block').innerText = "Looking at: " + block;
+        document.getElementById('block').innerHTML = "Looking at: " + block;
     });
+
+    engine.trigger("facet:request", ["core.scripting"]);
 
     // Grab the leave button element
     // let leaveButton = document.getElementById("_close_");
