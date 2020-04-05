@@ -39,6 +39,15 @@
         },
         "generator_front_off": {
             "textures": "textures/blocks/generator_front_off"
+        },
+        "teleporter_top": {
+            "textures": "textures/blocks/teleporter_top"
+        },
+        "teleporter_side": {
+            "textures": "textures/blocks/teleporter_side"
+        },
+        "obsidian": {
+            "textures": "textures/blocks/obsidian"
         }
     }
 }

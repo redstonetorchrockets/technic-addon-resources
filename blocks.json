@@ -46,5 +46,16 @@
             "east": "machine_side"
         },
         "sound": "stone"
+    },
+    "bedrockindustries:teleporter": {
+        "textures": {
+            "up": "teleporter_top",
+            "down": "obsidian",
+            "north": "teleporter_side",
+            "south": "teleporter_side",
+            "west": "teleporter_side",
+            "east": "teleporter_side"
+        },
+        "sound": "stone"
     }
 }
