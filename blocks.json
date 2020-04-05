@@ -50,7 +50,7 @@
     "bedrockindustries:teleporter": {
         "textures": {
             "up": "teleporter_top",
-            "down": "teleporter_bottom",
+            "down": "obsidian",
             "north": "teleporter_side",
             "south": "teleporter_side",
             "west": "teleporter_side",
