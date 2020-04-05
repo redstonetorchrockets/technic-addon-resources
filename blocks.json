@@ -3,7 +3,11 @@
     "bedrockindustries:copper_ore": {
         "textures": "copper_ore",
         "sound": "stone"
-    }, 
+    },
+    "bedrockindustries:copper_block": {
+        "textures": "copper_block",
+        "sound": "stone"
+    },
     "bedrockindustries:tin_ore": {
         "textures": "tin_ore",
         "sound": "stone"
