@@ -7,6 +7,9 @@
         },
         "tin_ingot": {
             "textures": "textures/items/tin_ingot"
+        },
+        "copper_ingot": {
+            "textures": "textures/items/copper_ingot"
         }
     }
 }
