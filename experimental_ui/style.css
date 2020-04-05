@@ -1,0 +1,106 @@
+@font-face {
+    font-family: 'MinecraftTen';
+    src: url(fonts/Minecraft.otf);
+}
+
+body {
+    font-family: "MinecraftTen";
+    color: black;
+}
+
+.screenBox {
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    position: absolute;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.windowBox {
+    margin-top: 10%;
+    width: 60%;
+    height: 500px;
+    background-size: 100%;
+    background-repeat: round;
+    padding: 50px;
+}
+
+button {
+    background-color: #c6c6c6;
+    color: #555555;
+    border-style: solid;
+    border-width: 3px;
+    border-top-color: white;
+    border-left-color: white;
+    border-right-color: #555555;
+    border-bottom-color: #555555;
+    width: 100px;
+    height: 50px;
+    font-family: "MinecraftTen";
+    padding: 10px;
+}
+
+button:hover {
+    background-color: #43a01c;
+    color: white;
+    border-top-color: #37d61e;
+    border-left-color: #37d61e;
+    border-right-color: #037300;
+    border-bottom-color: #037300;
+}
+
+.btn-close {
+    font-family: "MinecraftTen";
+    border: none;
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    margin-left: 98%;
+    margin-top: -33px;
+}
+
+.logo {
+    width: 200px;
+    height: 200px;
+    background-repeat: round;
+    background-size: 100%;
+    margin-left: 40%;
+    z-index: 3;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+.infoBox {
+    background-color: #c6c6c6;
+    color: #555555;
+    border-style: solid;
+    border-width: 3px;
+    border-top-color: white;
+    border-left-color: white;
+    border-right-color: #555555;
+    border-bottom-color: #555555;
+    padding: 20px;
+    position: absolute;
+    margin-top: 50px;
+    left: 30px;
+}
+
+.btnBox {
+    padding: 20px;
+    position: absolute;
+    margin-top: 100px;
+    left: 30px;
+    width: 100px;
+}
+
+.text {
+    color: white;
+    font-family: 'MinecraftTen';
+    float: right;
+    position: absolute;
+    bottom: 20%;
+}
