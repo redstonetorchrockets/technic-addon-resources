@@ -6,6 +6,9 @@
     "texture_data": {
         "rocket_launcher": {
             "textures": "textures/blocks/rocket_launcher"
+        },
+        "copper_ore": {
+            "textures": "textures/blocks/copper_ore.png"
         }
     }
 }
