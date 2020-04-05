@@ -18,6 +18,27 @@
         },
         "uranium_ore": {
             "textures": "textures/blocks/uranium_ore"
+        },
+        "energy_cable_cross": {
+            "textures": "textures/blocks/energy_cable_cross"
+        },
+        "energy_cable_line": {
+            "textures": "textures/blocks/energy_cable_line"
+        },
+        "machine_top": {
+            "textures": "textures/blocks/machine_top"
+        },
+        "machine_bottom": {
+            "textures": "textures/blocks/machine_bottom"
+        },
+        "machine_side": {
+            "textures": "textures/blocks/machine_side"
+        },
+        "generator_front_on": {
+            "textures": "textures/blocks/generator_front_on"
+        },
+        "generator_front_off": {
+            "textures": "textures/blocks/generator_front_off"
         }
     }
 }

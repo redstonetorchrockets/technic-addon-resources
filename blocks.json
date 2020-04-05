@@ -19,5 +19,32 @@
     "bedrockindustries:uranium_ore": {
         "textures": "uranium_ore",
         "sound": "stone"
+    },
+    "bedrockindustries:energy_cable": {
+        "textures": "uranium_ore",
+        "sound": "stone",
+        "blockshape": "cross_texture"
+    },
+    "bedrockindustries:generator": {
+        "textures": {
+            "up": "machine_top",
+            "down": "machine_bottom",
+            "north": "machine_side",
+            "south": "generator_front_off",
+            "west": "machine_side",
+            "east": "machine_side"
+        },
+        "sound": "stone"
+    },
+    "bedrockindustries:lit_generator": {
+        "textures": {
+            "up": "machine_top",
+            "down": "machine_bottom",
+            "north": "machine_side",
+            "south": "generator_front_on",
+            "west": "machine_side",
+            "east": "machine_side"
+        },
+        "sound": "stone"
     }
 }
