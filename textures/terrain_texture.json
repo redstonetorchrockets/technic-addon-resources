@@ -9,6 +9,12 @@
         },
         "copper_ore": {
             "textures": "textures/blocks/copper_ore.png"
+        },
+        "tin_ore": {
+            "textures": "textures/blocks/tin_ore"
+        },
+        "tin_block": {
+            "textures": "textures/blocks/tin_block"
         }
     }
 }
