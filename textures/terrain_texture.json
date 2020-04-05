@@ -15,6 +15,9 @@
         },
         "tin_block": {
             "textures": "textures/blocks/tin_block"
+        },
+        "uranium_ore": {
+            "textures": "textures/blocks/uranium_ore"
         }
     }
 }

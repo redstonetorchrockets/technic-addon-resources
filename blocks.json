@@ -15,5 +15,9 @@
     "bedrockindustries:tin_block": {
         "textures": "tin_block",
         "sound": "stone"
+    },
+    "bedrockindustries:uranium_ore": {
+        "textures": "uranium_ore",
+        "sound": "stone"
     }
 }
