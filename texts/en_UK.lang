@@ -3,3 +3,4 @@ item.spawn_egg.entity.rtr:rocket.name=Spawn RedstoneTorchRocket
 tile.bedrockindustries:copper_ore.name=Copper Ore
 tile.bedrockindustries:tin_ore.name=Tin Ore
 tile.bedrockindustries:tin_block.name=Tin Block
+item.bedrockindustries:tin_ingot.name=Tin Ingot
