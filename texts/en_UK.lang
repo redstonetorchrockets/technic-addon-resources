@@ -5,3 +5,5 @@ tile.bedrockindustries:copper_block.name=Copper Block
 tile.bedrockindustries:tin_ore.name=Tin Ore
 tile.bedrockindustries:tin_block.name=Tin Block
 tile.bedrockindustries:uranium_ore.name=Uranium Ore
+item.bedrockindustries:tin_ingot.name=Tin Ingot
+item.bedrockindustries:copper_ingot.name=Copper Ingot

@@ -5,3 +5,5 @@ tile.bedrockindustries:copper_block.name=Kupferblock
 tile.bedrockindustries:tin_ore.name=Zinnerz
 tile.bedrockindustries:tin_block.name=Zinnblock
 tile.bedrockindustries:uranium_ore.name=Uranerz
+item.bedrockindustries:tin_ingot.name=Zinnbarren
+item.bedrockindustries:copper_ingot.name=Kupferbarren

@@ -4,6 +4,12 @@
     "texture_data": {
         "redstone_torch_rocket": {
             "textures": "textures/items/redstone_torch_rocket"
+        },
+        "tin_ingot": {
+            "textures": "textures/items/tin_ingot"
+        },
+        "copper_ingot": {
+            "textures": "textures/items/copper_ingot"
         }
     }
 }
