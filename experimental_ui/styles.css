@@ -100,5 +100,7 @@ button:hover {
 .text {
     color: white;
     font-family: 'MinecraftTen';
-    float: right;
+    display: block;
+    text-align: center;
+    width: 100%;
 }
