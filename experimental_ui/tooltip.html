@@ -9,8 +9,10 @@
 
 <body>
     <div id="_body_" class="screenBox">
-        <p id="block" class="text">Looking at: ---</p>
-        <p id="mod" class="text">From: ---</p>
+        <div class="tooltip">
+            <span id="block" class="text">Block</span>
+            <span id="mod" class="text">Modification</span>
+        </div>
     </div>
 </body>
 
@@ -26,8 +28,9 @@
         blockInfo = JSON.parse(blockInfo);
         let mod = blockInfo[0];
         let block = blockInfo[1];
-        document.getElementById('block').innerHTML = "Looking at: " + block;
-        document.getElementById('mod').innerHTML = "From: " + mod;
+        block = block.replace("_", " ");
+        document.getElementById('block').innerHTML = block;
+        document.getElementById('mod').innerHTML = mod;
     });
 
     engine.trigger("facet:request", ["core.scripting"]);
